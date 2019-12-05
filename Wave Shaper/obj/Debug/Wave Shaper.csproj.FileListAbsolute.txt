@@ -1,0 +1,9 @@
+C:\Users\edisp\source\repos\Wave Shaper\Wave Shaper\bin\Debug\Wave Shaper.exe.config
+C:\Users\edisp\source\repos\Wave Shaper\Wave Shaper\bin\Debug\Wave Shaper.exe
+C:\Users\edisp\source\repos\Wave Shaper\Wave Shaper\bin\Debug\Wave Shaper.pdb
+C:\Users\edisp\source\repos\Wave Shaper\Wave Shaper\obj\Debug\Wave Shaper.csprojAssemblyReference.cache
+C:\Users\edisp\source\repos\Wave Shaper\Wave Shaper\obj\Debug\Wave_Shaper.Form1.resources
+C:\Users\edisp\source\repos\Wave Shaper\Wave Shaper\obj\Debug\Wave_Shaper.Properties.Resources.resources
+C:\Users\edisp\source\repos\Wave Shaper\Wave Shaper\obj\Debug\Wave Shaper.csproj.GenerateResource.cache
+C:\Users\edisp\source\repos\Wave Shaper\Wave Shaper\obj\Debug\Wave Shaper.exe
+C:\Users\edisp\source\repos\Wave Shaper\Wave Shaper\obj\Debug\Wave Shaper.pdb
